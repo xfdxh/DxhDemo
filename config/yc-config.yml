@@ -2,7 +2,7 @@ server:
   port: 8077
 spring:
   application:
-    name: gateway
+    name: remoteapplication
 eureka:
   client:
     service-url:
